@@ -31,9 +31,26 @@ streamlit run legalsum.py
 Work in progress.
 
 ```bibtex
-@inproceedings{
-    paper="",
-    author="",
-    date="",
+@InProceedings{10.1007/978-3-031-54256-5_24,
+author="Freire, Daniela L.
+and de Almeida, Alex M. G.
+and Dias, M{\'a}rcio de S.
+and Rivolli, Adriano
+and Pereira, Fab{\'i}ola S. F.
+and de Godoi, Giliard A.
+and de Carvalho, Andre C. P. L. F.",
+editor="Rocha, {\'A}lvaro
+and Ferr{\'a}s, Carlos
+and Hochstetter Diez, Jorge
+and Di{\'e}guez Rebolledo, Mauricio",
+title="LegalSum: Towards Tool for Evaluation for Extractive Summarization of Brazilian Lawsuits",
+booktitle="Information Technology and Systems",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="258--267",
+isbn="978-3-031-54256-5"
 }
+
+
 ```
