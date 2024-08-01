@@ -1,4 +1,4 @@
-## LegalSum++ - Brazilian Legal Text Summarizer
+## LegalSum++: Brazilian Legal Text Summarizer
 
 Brazilian legal decision texts summarizer application.
 
